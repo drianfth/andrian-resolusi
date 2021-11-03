@@ -2,4 +2,5 @@ ANDRIAN RESOLUSI
 - Belajar Laravel
 - Membuat web Perpustakaan
 - insyaallah belajar react
-- ngerjakne tugas
+- lulus semester
+- mengerjakan TA 
